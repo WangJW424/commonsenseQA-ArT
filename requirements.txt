@@ -1,0 +1,10 @@
+numpy==1.19.2
+allennlp==2.6.0
+nltk==3.5
+stanfordcorenlp==3.9.1.1
+transformers==4.8.2
+torch==1.7.1
+tqdm
+bert_serving
+scikit_learn
+tensorboardX

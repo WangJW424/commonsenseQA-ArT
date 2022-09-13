@@ -1,0 +1,1 @@
+Download ELMo (elmo_2x4096_512_2048cnn_2xhighway_options.json) here.
